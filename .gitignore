@@ -41,5 +41,4 @@ coverage.info
 *.deb
 usr
 
-# generated files
-include/restclient-cpp/version.h
+build/*
